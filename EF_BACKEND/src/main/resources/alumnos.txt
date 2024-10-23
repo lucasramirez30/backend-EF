@@ -1,0 +1,5 @@
+12000024548;César Enrique;Santos Torres;Computación e informática;VI
+202211234;Jose Carlos;Alvarez Contreras;Diseño Gráfico;V
+202316542;María Carla;Saldivar Pérez;Administración;IV
+202319677;Jorge Marco;Villaran Boluarte;Desarrollo de Videojuegos;III
+202410783;Milagros Mirian;Mendoza Figueroa;Marketing;I
